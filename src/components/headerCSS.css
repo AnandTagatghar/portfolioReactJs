@@ -1,0 +1,15 @@
+#picture {
+  background: url("../img/pic.jpg");
+}
+
+.texts {
+  color: white;
+  font-size: 1.2rem;
+}
+.makeThings {
+  background: var(--primary);
+}
+.makeADifference {
+  text-decoration: underline;
+  text-decoration-color: var(--primary);
+}

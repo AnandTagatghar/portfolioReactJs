@@ -1,0 +1,14 @@
+.projectsButtons {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+}
+
+.projectsButtons:hover {
+  color: black;
+  border: 2px solid black;
+}
+
+.projectsText {
+  font-size: 1.2rem;
+}
