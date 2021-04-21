@@ -12,7 +12,7 @@ const About = () => {
           <div className="row pb-5">
             <div className="col-md-8 col-sm-12 body">
               <h2 className="py-5 mx-3 ">
-                I am looking for an opertunity as a fresher as a full stack
+                Looking for a Job opportunity as a fresher as a full stack
                 software developer.
               </h2>
             </div>
